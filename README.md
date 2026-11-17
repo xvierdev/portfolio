@@ -39,8 +39,424 @@ Tenho interesse por sistemas computacionais e ciências exatas.
 - [https://www.linkedin.com/in/xvierbr/](https://www.linkedin.com/in/xvierbr/)
 - [wesley.xvier@gmail.com](mailto:wesley.xvier@gmail.com)
 
-## Principais conhecimentos
+## Meus Principais Conhecimentos
 
-- Formação técnica em Desenvolvimento de Sistemas pela Etec Professora Ilza Nascimento Pintus.
-- Mecânica de Motos pela escola Continental.
-- Mecânico de Usinagem pelo SENAI Santos Dumound.
+Minhas experiências profissionais e minha formação técnica envolvem desenvolvimento de sistemas, automação, análise de dados e ferramentas digitais. Entre os conhecimentos que utilizei no trabalho e nos cursos que ministrei estão:
+
+- **Análise e automação de dados:** consultas a bancos de dados, tratamento de resultados no Excel e com Python, elaboração de relatórios e desenvolvimento em equipe de automações para coleta e tratamento de dados, além de bots de alerta no Telegram e no WhatsApp para ocorrências relacionadas à fibra óptica.
+- **Ferramentas de produtividade:** Microsoft Word, Excel e PowerPoint; também ministrei aulas de digitação.
+- **Ferramentas gráficas:** Adobe Photoshop e Adobe Illustrator, conteúdos que ensinei nas aulas de informática e games.
+- **Eletrônica e hardware:** introdução à eletrônica, montagem, manutenção e diagnóstico de defeitos em computadores, manutenção de notebooks, substituição de telas, conectores e baterias de smartphones, projetos de robótica com Arduino e uso de impressoras 3D.
+- **Games e modelagem 3D:** Unreal Engine 4 com Blueprints, lógica de programação com Blueprints e modelagem 3D com Blender.
+- **Desenvolvimento web:** conteúdos de web, tema abordado nas aulas de informática.
+- **Formação técnica:** Técnico em Desenvolvimento de Sistemas pela Etec Professora Ilza Nascimento Pintus.
+
+## Projetos API
+
+### API 1 — 1º semestre (____-__)
+
+#### Identificação do projeto
+
+##### Nome do projeto
+
+##### Tipo de sistema
+
+##### Papel no Scrum
+
+##### Equipe
+
+##### Metodologia
+
+##### Situação do projeto
+
+#### Empresa parceira
+
+##### Empresa ou instituição parceira
+
+##### Área de atuação ou professor responsável pelos requisitos
+
+#### Problema
+
+#### Solução
+
+##### Nome do sistema
+
+##### Tipo de sistema (desktop, web ou app)
+
+##### Resumo da solução
+
+#### Cronograma e entregas
+
+| Etapa | Período | Principais entregas | Situação |
+|---|---|---|---|
+
+#### Link do repositório Git
+
+#### Preview da aplicação
+
+#### Tecnologias utilizadas
+
+| Tecnologia | Onde foi utilizada |
+|---|---|
+
+#### Contribuições pessoais
+
+##### Papel no Scrum
+
+##### Contribuições
+
+##### Artefatos produzidos
+
+##### Tecnologias utilizadas
+
+#### Hard skills
+
+| Tecnologia ou hard skill | Nível de proficiência | Evidência de uso |
+|---|---|---|
+
+#### Soft skills
+
+| Soft skill | Situação específica | Exemplo de aplicação |
+|---|---|---|
+
+#### Aprendizados
+
+### API 2 — 2º semestre (____-__)
+
+#### Identificação do projeto
+
+##### Nome do projeto
+
+##### Tipo de sistema
+
+##### Papel no Scrum
+
+##### Equipe
+
+##### Metodologia
+
+##### Situação do projeto
+
+#### Empresa parceira
+
+##### Empresa ou instituição parceira
+
+##### Área de atuação ou professor responsável pelos requisitos
+
+#### Problema
+
+#### Solução
+
+##### Nome do sistema
+
+##### Tipo de sistema (desktop, web ou app)
+
+##### Resumo da solução
+
+#### Cronograma e entregas
+
+| Etapa | Período | Principais entregas | Situação |
+|---|---|---|---|
+
+#### Link do repositório Git
+
+#### Preview da aplicação
+
+#### Tecnologias utilizadas
+
+| Tecnologia | Onde foi utilizada |
+|---|---|
+
+#### Contribuições pessoais
+
+##### Papel no Scrum
+
+##### Contribuições
+
+##### Artefatos produzidos
+
+##### Tecnologias utilizadas
+
+#### Hard skills
+
+| Tecnologia ou hard skill | Nível de proficiência | Evidência de uso |
+|---|---|---|
+
+#### Soft skills
+
+| Soft skill | Situação específica | Exemplo de aplicação |
+|---|---|---|
+
+#### Aprendizados
+
+### API 3 — 3º semestre (____-__)
+
+#### Identificação do projeto
+
+##### Nome do projeto
+
+##### Tipo de sistema
+
+##### Papel no Scrum
+
+##### Equipe
+
+##### Metodologia
+
+##### Situação do projeto
+
+#### Empresa parceira
+
+##### Empresa ou instituição parceira
+
+##### Área de atuação ou professor responsável pelos requisitos
+
+#### Problema
+
+#### Solução
+
+##### Nome do sistema
+
+##### Tipo de sistema (desktop, web ou app)
+
+##### Resumo da solução
+
+#### Cronograma e entregas
+
+| Etapa | Período | Principais entregas | Situação |
+|---|---|---|---|
+
+#### Link do repositório Git
+
+#### Preview da aplicação
+
+#### Tecnologias utilizadas
+
+| Tecnologia | Onde foi utilizada |
+|---|---|
+
+#### Contribuições pessoais
+
+##### Papel no Scrum
+
+##### Contribuições
+
+##### Artefatos produzidos
+
+##### Tecnologias utilizadas
+
+#### Hard skills
+
+| Tecnologia ou hard skill | Nível de proficiência | Evidência de uso |
+|---|---|---|
+
+#### Soft skills
+
+| Soft skill | Situação específica | Exemplo de aplicação |
+|---|---|---|
+
+#### Aprendizados
+
+### API 4 — 4º semestre (____-__)
+
+#### Identificação do projeto
+
+##### Nome do projeto
+
+##### Tipo de sistema
+
+##### Papel no Scrum
+
+##### Equipe
+
+##### Metodologia
+
+##### Situação do projeto
+
+#### Empresa parceira
+
+##### Empresa ou instituição parceira
+
+##### Área de atuação ou professor responsável pelos requisitos
+
+#### Problema
+
+#### Solução
+
+##### Nome do sistema
+
+##### Tipo de sistema (desktop, web ou app)
+
+##### Resumo da solução
+
+#### Cronograma e entregas
+
+| Etapa | Período | Principais entregas | Situação |
+|---|---|---|---|
+
+#### Link do repositório Git
+
+#### Preview da aplicação
+
+#### Tecnologias utilizadas
+
+| Tecnologia | Onde foi utilizada |
+|---|---|
+
+#### Contribuições pessoais
+
+##### Papel no Scrum
+
+##### Contribuições
+
+##### Artefatos produzidos
+
+##### Tecnologias utilizadas
+
+#### Hard skills
+
+| Tecnologia ou hard skill | Nível de proficiência | Evidência de uso |
+|---|---|---|
+
+#### Soft skills
+
+| Soft skill | Situação específica | Exemplo de aplicação |
+|---|---|---|
+
+#### Aprendizados
+
+### API 5 — 5º semestre (____-__)
+
+#### Identificação do projeto
+
+##### Nome do projeto
+
+##### Tipo de sistema
+
+##### Papel no Scrum
+
+##### Equipe
+
+##### Metodologia
+
+##### Situação do projeto
+
+#### Empresa parceira
+
+##### Empresa ou instituição parceira
+
+##### Área de atuação ou professor responsável pelos requisitos
+
+#### Problema
+
+#### Solução
+
+##### Nome do sistema
+
+##### Tipo de sistema (desktop, web ou app)
+
+##### Resumo da solução
+
+#### Cronograma e entregas
+
+| Etapa | Período | Principais entregas | Situação |
+|---|---|---|---|
+
+#### Link do repositório Git
+
+#### Preview da aplicação
+
+#### Tecnologias utilizadas
+
+| Tecnologia | Onde foi utilizada |
+|---|---|
+
+#### Contribuições pessoais
+
+##### Papel no Scrum
+
+##### Contribuições
+
+##### Artefatos produzidos
+
+##### Tecnologias utilizadas
+
+#### Hard skills
+
+| Tecnologia ou hard skill | Nível de proficiência | Evidência de uso |
+|---|---|---|
+
+#### Soft skills
+
+| Soft skill | Situação específica | Exemplo de aplicação |
+|---|---|---|
+
+#### Aprendizados
+
+### API 6 — 6º semestre (____-__)
+
+#### Identificação do projeto
+
+##### Nome do projeto
+
+##### Tipo de sistema
+
+##### Papel no Scrum
+
+##### Equipe
+
+##### Metodologia
+
+##### Situação do projeto
+
+#### Empresa parceira
+
+##### Empresa ou instituição parceira
+
+##### Área de atuação ou professor responsável pelos requisitos
+
+#### Problema
+
+#### Solução
+
+##### Nome do sistema
+
+##### Tipo de sistema (desktop, web ou app)
+
+##### Resumo da solução
+
+#### Cronograma e entregas
+
+| Etapa | Período | Principais entregas | Situação |
+|---|---|---|---|
+
+#### Link do repositório Git
+
+#### Preview da aplicação
+
+#### Tecnologias utilizadas
+
+| Tecnologia | Onde foi utilizada |
+|---|---|
+
+#### Contribuições pessoais
+
+##### Papel no Scrum
+
+##### Contribuições
+
+##### Artefatos produzidos
+
+##### Tecnologias utilizadas
+
+#### Hard skills
+
+| Tecnologia ou hard skill | Nível de proficiência | Evidência de uso |
+|---|---|---|
+
+#### Soft skills
+
+| Soft skill | Situação específica | Exemplo de aplicação |
+|---|---|---|
+
+#### Aprendizados
