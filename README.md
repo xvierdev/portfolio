@@ -1,5 +1,5 @@
 # Wesley Xavier
-<img src="perfil.jpg" alt="Descrição" width="300">
+<img src="perfil.jpg" alt="Foto de Wesley" width="300">
 
 ## Informações Pessoais
 
@@ -39,7 +39,7 @@ Sempre tive interesse pelas ciências exatas, especialmente pelo funcionamento d
 
 ## Meus Principais Conhecimentos
 
-Minhas experiências profissionais e minha formação técnica envolvem desenvolvimento de sistemas, automação de processos, análise de dados e uso de ferramentas digitais. Entre os conhecimentos que utilizei no trabalho e nos cursos que ministrei estão:
+Minhas experiências profissionais e minha formação técnica envolvem desenvolvimento de sistemas, automação de processos, análise de dados e uso de ferramentas digitais. Entre os conhecimentos que utilizei no trabalho e nos cursos que realizei estão:
 
 - **Análise e automação de dados:** consultas a bancos de dados, tratamento de resultados no Excel e com Python, elaboração de relatórios e desenvolvimento em equipe de automações para coleta e tratamento de dados.
 - **Python:** extração, limpeza e análise de grandes volumes de dados (ETL), desenvolvimento de APIs REST com FastAPI e Flask e estudo de algoritmos para maratonas de programação.
@@ -67,7 +67,7 @@ Quem está começando a estudar Scrum pode conhecer os nomes dos papéis, evento
 
 O Scrum360 é uma aplicação web educacional voltada ao aprendizado de Scrum. A plataforma organiza o conteúdo em módulos sobre Scrum, Product Owner, Scrum Master e time de desenvolvimento, reunindo conceitos, exemplos práticos e áudios de apoio. Cada módulo inclui uma avaliação parcial de dez questões, com apresentação da pontuação e registro do progresso. Após o usuário acertar pelo menos seis questões em cada módulo, a plataforma libera um exame final de vinte questões para revisar os conhecimentos apresentados.
 
-[foto]
+<img src="./scrum360.gif" alt="scrum360" width=500px>
 
 #### Link do Repositório Git
 
@@ -130,7 +130,7 @@ Desenvolvedores que trabalham com Python precisam dedicar tempo à criação de 
 
 Voltada à edição e à análise de código Python, a UnderDevs IDE é uma aplicação desktop que permite criar, abrir e salvar arquivos, executar scripts e visualizar os resultados em uma janela própria. Integrada ao Ollama com o modelo Qwen2.5-Coder, a ferramenta gera testes unitários, sugere melhorias e permite solicitar documentação ou explicações do código. A aplicação também armazena prompts de inteligência artificial no MySQL e permite consultá-los, cadastrá-los, editá-los e excluí-los.
 
-[foto]
+<img src="./underdevs_ide.png" alt="UnderDevs IDE" width="500px">
 
 #### Link do Repositório Git
 
@@ -184,7 +184,7 @@ Atuei como Scrum Master, com responsabilidades de planejamento e acompanhamento 
 
 Durante uma das Sprints, algumas ausências reduziram a disponibilidade da equipe e exigiram a reorganização das tarefas. Como Scrum Master, redistribuí atividades, acompanhei o progresso e procurei manter o time motivado enquanto alinhava as expectativas sobre as entregas. Nessa situação, usei *liderança* para orientar a equipe, *comunicação* para compartilhar mudanças e cobrar atualizações, e *flexibilidade* para adaptar a distribuição do trabalho à disponibilidade dos integrantes. Essa reorganização ajudou o time a manter o andamento das atividades e seguir em direção às entregas previstas.
 
-### API 3 — 3º semestre (2025-2): Radar Entrenova
+### API 3 — 3º semestre (2025-2): EchoNova
 
 #### Empresa parceira
 
@@ -196,9 +196,9 @@ Na Entrenova, a identificação das necessidades de treinamento das empresas cli
 
 #### Solução
 
-O Radar Entrenova é uma aplicação web voltada à identificação de necessidades de treinamento em pequenas e médias empresas. A solução realiza um diagnóstico inicial e uma entrevista aprofundada com inteligência artificial, gera relatórios personalizados em PDF e os envia por e-mail. Também recomenda trilhas de aprendizagem que podem ser atribuídas aos funcionários e permite acompanhar seu progresso. Os painéis disponibilizam informações sobre empresas, diagnósticos, potenciais clientes e trilhas.
+O EchoNova é uma aplicação web voltada à identificação de necessidades de treinamento em pequenas e médias empresas. A solução realiza um diagnóstico inicial e uma entrevista aprofundada com inteligência artificial, gera relatórios personalizados em PDF e os envia por e-mail. Também recomenda trilhas de aprendizagem que podem ser atribuídas aos funcionários e permite acompanhar seu progresso. Os painéis disponibilizam informações sobre empresas, diagnósticos, potenciais clientes e trilhas.
 
-[foto]
+<img src="./entrenova.png" alt="EchoNova" width="500px">
 
 #### Link do Repositório Git
 
@@ -269,7 +269,7 @@ Na área de Engenharia da Guarnição de Caçapava, os engenheiros precisavam co
 
 A equipe desenvolveu o EchoCAD, uma aplicação web que recebe plantas CAD em formato DXF e processa suas geometrias para extrair quantitativos de elementos como paredes, estruturas e comprimentos de fios. Com esses dados, gera um memorial de cálculo em planilha Excel e especificações técnicas em documento DOCX, disponibilizando os resultados no histórico dos projetos.
 
-[foto]
+<img src="./echocad.png" alt="EchocCad" width="500px">
 
 #### Link do Repositório Git
 
