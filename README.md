@@ -43,7 +43,10 @@ Minhas experiências profissionais e minha formação técnica envolvem desenvol
 
 - **Análise e automação de dados:** consultas a bancos de dados, tratamento de resultados no Excel e com Python, elaboração de relatórios e desenvolvimento em equipe de automações para coleta e tratamento de dados.
 - **Python:** extração, limpeza e análise de grandes volumes de dados (ETL), desenvolvimento de APIs REST com FastAPI e Flask e estudo de algoritmos para maratonas de programação.
-- **Redes e hardware:** configuração de redes e equipamentos, instalação e configuração de sistemas Linux, configuração de firewalls e controles de acesso e preparação de ambientes de desenvolvimento para Python, Node.js e Java.
+- **Bancos de dados:** conhecimentos em MongoDB, MariaDB/MySQL e PostgreSQL.
+- **Contêineres e versionamento:** uso de Docker, Git e GitHub em projetos de desenvolvimento.
+- **Inteligência artificial:** uso do Ollama para trabalhar com modelos de linguagem locais.
+- **Redes, Linux e hardware:** configuração de redes e equipamentos, instalação e configuração de sistemas Linux, configuração de firewall com UFW, VPN com OpenVPN e acesso remoto por SSH, além da preparação de ambientes de desenvolvimento para Python, Node.js e Java.
 - **Desenvolvimento web:** desenvolvimento de interfaces com React e TypeScript e criação de aplicações e APIs com Node.js e Express.
 - **Metodologia Ágil (Scrum):** vivência direta na organização e liderança de projetos como Desenvolvedor, Scrum Master ou Product Owner.
 
@@ -62,14 +65,7 @@ Quem está começando a estudar Scrum pode conhecer os nomes dos papéis, evento
 
 #### Solução
 
-**Nome:** Scrum360<br>
-**Tipo:** aplicação web educacional.
-
-- Organiza o conteúdo em módulos sobre Scrum, Product Owner, Scrum Master e time de desenvolvimento.
-- Apresenta conceitos e exemplos práticos em páginas de conteúdo, com áudios de apoio.
-- Oferece uma avaliação parcial de dez questões para cada módulo e exibe a pontuação do usuário.
-- Registra o progresso e libera o exame final quando o usuário acerta pelo menos seis questões em cada módulo.
-- O exame final contém vinte questões para revisar os conhecimentos apresentados.
+O Scrum360 é uma aplicação web educacional voltada ao aprendizado de Scrum. A plataforma organiza o conteúdo em módulos sobre Scrum, Product Owner, Scrum Master e time de desenvolvimento, reunindo conceitos, exemplos práticos e áudios de apoio. Cada módulo inclui uma avaliação parcial de dez questões, com apresentação da pontuação e registro do progresso. Após o usuário acertar pelo menos seis questões em cada módulo, a plataforma libera um exame final de vinte questões para revisar os conhecimentos apresentados.
 
 [foto]
 
@@ -104,7 +100,7 @@ Atuei como Desenvolvedor, com atribuições de backend e conteúdo, conforme a i
 - Contribuí para a regra de progressão que libera o exame final após a aprovação nas quatro avaliações parciais.
 - Produzi a primeira versão e revisei conteúdo didático sobre Scrum, incluindo seus papéis, eventos, artefatos e valores.
 - Fiquei responsável pela elaboração dos questionários e pelos cálculos das notas; alinhei com a equipe quais questões seriam válidas e a quantidade adequada para cada avaliação.
-- Os artefatos que produzi foram o backend e as rotas em `Frontend/app.py`, a lógica de correção em `Frontend/static/scripts.js`, a página de acompanhamento em `Frontend/templates/Modulos.html`, as páginas dos questionários parciais e do exame final em `Frontend/templates/evaluations/` e o conteúdo didático em `Documentação/5. Conteudo SCRUM.md`. Nessas contribuições, utilizei Python, Flask, JavaScript, HTML e CSS.
+- Entre os principais artefatos que produzi estão as rotas e o processamento do backend, que recebem os resultados e registram o progresso; a lógica de correção e pontuação dos questionários e do exame final; as páginas de acompanhamento e avaliação; e o conteúdo didático sobre Scrum com seus questionários. Para isso, utilizei Python, Flask, JavaScript, HTML e CSS.
 
 #### Hard skills
 
@@ -117,14 +113,14 @@ Atuei como Desenvolvedor, com atribuições de backend e conteúdo, conforme a i
 
 #### Soft skills
 
-Durante a elaboração dos questionários e a definição do cálculo das notas, foi necessário decidir com a equipe quantas perguntas teria cada avaliação e quais seriam consideradas válidas. Como fiquei responsável por elaborar os questionários e calcular as notas, usei *comunicação* para esclarecer os critérios em discussão, *persuasão* para defender uma seleção de perguntas adequada ao conteúdo avaliado e *resolução de conflitos* para lidar com as diferenças de opinião durante os ajustes. Esse alinhamento permitiu definir quais questões seriam utilizadas e como elas seriam consideradas nas avaliações.
+Durante a elaboração dos questionários e a definição do cálculo das notas, foi necessário decidir com a equipe quantas perguntas teria cada avaliação e quais seriam consideradas válidas. Como fiquei responsável por elaborar os questionários e calcular as notas, usei *comunicação* para esclarecer os critérios em discussão e *persuasão* para defender uma seleção de perguntas alinhada ao conteúdo. Também recorri à *inteligência emocional* para lidar de forma equilibrada com as diferenças de opinião durante os ajustes. Esse alinhamento permitiu definir quais questões seriam utilizadas e como seriam consideradas nas avaliações.
 
 ### API 2 — 2º semestre (2025-1): UnderDevs IDE
 
 #### Instituição parceira e responsável pelos requisitos
 
 - **Instituição parceira:** Fatec São José dos Campos (Fatec-SJC).
-- **Cliente (P2) e responsável pelos requisitos:** Prof. Giuliano Bertoti.
+- **Responsável pelos requisitos:** Prof. Giuliano Bertoti.
 
 #### Problema
 
@@ -132,14 +128,7 @@ Desenvolvedores que trabalham com Python precisam dedicar tempo à criação de 
 
 #### Solução
 
-**Nome:** UnderDevs IDE (IDE em Java para Python com assistência de inteligência artificial)<br>
-**Tipo:** aplicação desktop.
-
-- Oferece um editor para criar, abrir e salvar arquivos Python.
-- Executa scripts Python e exibe os resultados em uma janela própria.
-- Integra-se ao Ollama, com o modelo Qwen2.5-Coder, para gerar testes unitários e sugerir melhorias no código.
-- Também permite solicitar documentação e explicações do código.
-- Mantém prompts de inteligência artificial no MySQL e permite consultá-los, criá-los, editá-los e excluí-los.
+Voltada à edição e à análise de código Python, a UnderDevs IDE é uma aplicação desktop que permite criar, abrir e salvar arquivos, executar scripts e visualizar os resultados em uma janela própria. Integrada ao Ollama com o modelo Qwen2.5-Coder, a ferramenta gera testes unitários, sugere melhorias e permite solicitar documentação ou explicações do código. A aplicação também armazena prompts de inteligência artificial no MySQL e permite consultá-los, cadastrá-los, editá-los e excluí-los.
 
 [foto]
 
@@ -174,14 +163,14 @@ Atuei como Scrum Master, com responsabilidades de planejamento e acompanhamento 
 - Implementei a comunicação com o Ollama por meio do Ollama4j e integrei prompts para geração de testes, melhorias, documentação e explicações do código.
 - Contribuí para a abertura e o salvamento de arquivos Python, a execução de scripts e a exibição dos resultados nas janelas da aplicação.
 - Participei da implementação do gerenciamento de prompts no MySQL, incluindo operações para consultar, cadastrar, atualizar e excluir registros.
-- Os artefatos que produzi incluem a interface principal (`MainInterface.java`), a integração com o Ollama (`OllamaInterface.java`), os utilitários de arquivos e execução (`FileUtils.java`), as janelas de saída e gerenciamento de prompts (`OutputTest.java`, `OutputUI.java` e `PromptManager.java`), o acesso aos dados (`PromptDao.java`) e os arquivos de prompts para testes, melhorias, documentação e explicação. Nessas contribuições, utilizei Java, Swing, Ollama/Ollama4j, MySQL/JDBC, Python e Maven; também usei Git/GitHub, Jira, Figma e Markdown no versionamento, planejamento, prototipação e documentação.
+- Entre os principais artefatos em que atuei estão a interface da IDE e os fluxos para abrir, salvar e executar scripts Python; a integração com o Ollama para gerar testes e sugerir melhorias, documentação e explicações do código; e o módulo de gerenciamento de prompts, com operações de consulta e manutenção no MySQL. Nessas contribuições, utilizei Java, Swing, Ollama/Ollama4j, MySQL/JDBC e Python; também usei Maven, Git/GitHub, Jira, Figma e Markdown no build, versionamento, planejamento, prototipação e documentação.
 
 #### Hard skills
 
 | Tecnologia | Nível de proficiência | Evidência de uso no projeto |
 |---|---|---|
 | Java | Faço/uso com ajuda | Implementação e integração de funcionalidades da aplicação desktop. |
-| Swing | Ouvi falar | Componentes da interface gráfica da IDE. |
+| Swing | Faço/uso com ajuda | Implementação e integração de componentes da interface gráfica da IDE. |
 | Ollama/Ollama4j | Faço/uso com autonomia | Integração com o modelo para processar prompts relacionados ao código. |
 | MySQL/JDBC | Faço/uso com autonomia | Persistência e gerenciamento dos prompts. |
 | Python | Consigo ensinar | Execução de scripts e geração de testes para código Python. |
@@ -207,14 +196,7 @@ Na Entrenova, a identificação das necessidades de treinamento das empresas cli
 
 #### Solução
 
-**Nome:** Radar Entrenova<br>
-**Tipo:** aplicação web.
-
-- Oferece um diagnóstico inicial para ajudar pequenas e médias empresas a identificar necessidades de treinamento.
-- Realiza uma entrevista aprofundada com inteligência artificial e gera relatórios personalizados sobre a organização.
-- Produz relatórios de diagnóstico em PDF e os envia por e-mail.
-- Recomenda trilhas de aprendizagem que podem ser atribuídas aos funcionários, com acompanhamento do progresso.
-- Disponibiliza painéis para consultar empresas, diagnósticos, potenciais clientes e informações sobre as trilhas.
+O Radar Entrenova é uma aplicação web voltada à identificação de necessidades de treinamento em pequenas e médias empresas. A solução realiza um diagnóstico inicial e uma entrevista aprofundada com inteligência artificial, gera relatórios personalizados em PDF e os envia por e-mail. Também recomenda trilhas de aprendizagem que podem ser atribuídas aos funcionários e permite acompanhar seu progresso. Os painéis disponibilizam informações sobre empresas, diagnósticos, potenciais clientes e trilhas.
 
 [foto]
 
@@ -251,7 +233,7 @@ Atuei como Desenvolvedor.
 - Contribuí para a geração dos relatórios em PDF e para o envio dos resultados por e-mail.
 - Desenvolvi e ajustei telas administrativas e rotas para consultar e gerenciar empresas, diagnósticos, leads e trilhas de aprendizagem.
 - Também contribuí para funcionalidades de cadastro e login de funcionários, atribuição de trilhas e acompanhamento do progresso.
-- Entre os artefatos em que trabalhei estão as rotas do diagnóstico inicial e aprofundado (`app/src/app/api/diagnostico/route.ts` e `app/src/app/api/diagnostico-ia/route.ts`), a interface do diagnóstico aprofundado (`app/src/app/diagnostico-aprofundado/page.tsx`), os prompts e a integração com IA (`app/src/lib/prompts.ts` e `app/src/lib/ai/`), a geração e o envio de relatórios (`app/src/lib/pdfGenerator.ts` e `app/src/app/api/send-diagnostico/route.ts`), o painel e o login administrativos (`app/src/app/admin/page.tsx` e `app/src/app/admin/login/page.tsx`), as rotas administrativas (`app/src/app/api/admin/`), o login de funcionários (`app/src/app/api/login-funcionario/route.ts`) e as telas e rotas de funcionários e trilhas (`app/src/app/gerenciar-funcionarios/page.tsx`, `app/src/app/funcionario/trilha/[id]/page.tsx` e `app/src/app/api/funcionarios/`). Nessas contribuições, utilizei JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS, OpenAI, Gemini, Ollama, jsPDF, Nodemailer, Git/GitHub e Jira.
+- Entre os principais artefatos em que atuei estão os fluxos de diagnóstico inicial e aprofundado, com suas rotas, processamento de respostas e integração com prompts e provedores de IA; a geração e o envio de relatórios personalizados; e as funcionalidades administrativas e de funcionários para gerenciar empresas, diagnósticos, leads e trilhas de aprendizagem. Para desenvolver essas funcionalidades, utilizei JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS, OpenAI, Gemini, Ollama, jsPDF e Nodemailer; também usei Git/GitHub e Jira para versionamento e acompanhamento das atividades.
 
 #### Hard skills
 
@@ -285,13 +267,7 @@ Na área de Engenharia da Guarnição de Caçapava, os engenheiros precisavam co
 
 #### Solução
 
-**Nome:** EchoCAD<br>
-**Tipo:** aplicação web.
-
-- Recebe arquivos de plantas CAD em formato DXF e processa seus elementos geométricos.
-- Extrai quantitativos geométricos de elementos da planta, incluindo paredes, estruturas e comprimentos de fios.
-- Gera um memorial de cálculo em planilha Excel a partir das informações processadas.
-- Gera especificações técnicas em documento DOCX e disponibiliza os resultados no histórico dos projetos.
+A equipe desenvolveu o EchoCAD, uma aplicação web que recebe plantas CAD em formato DXF e processa suas geometrias para extrair quantitativos de elementos como paredes, estruturas e comprimentos de fios. Com esses dados, gera um memorial de cálculo em planilha Excel e especificações técnicas em documento DOCX, disponibilizando os resultados no histórico dos projetos.
 
 [foto]
 
@@ -320,17 +296,17 @@ Na área de Engenharia da Guarnição de Caçapava, os engenheiros precisavam co
 
 ##### Papel no Scrum
 
-Atuei como Desenvolvedor, com foco no backend e na infraestrutura de testes.
+Atuei como Desenvolvedor, com foco no backend e no processamento das plantas CAD.
 
 ##### Principais contribuições
 
-- Contribuí para o processamento dos arquivos DXF, ajudando a interpretar suas geometrias e transformar os elementos das plantas em quantitativos para o memorial de cálculo.
+- Contribuí para o processamento dos arquivos DXF com ezdxf, interpretando suas geometrias e transformando os elementos das plantas em quantitativos para o memorial de cálculo.
 - Implementei e refinei componentes e agentes de inteligência artificial com o Agno, apoiando a análise das informações extraídas das plantas e a geração de especificações técnicas.
 - Desenvolvi rotas de backend para upload e processamento de arquivos e participei da implementação do cadastro de usuários, dos esquemas de validação e dos modelos de dados.
 - Contribuí para a configuração do SQLAlchemy assíncrono e para sua integração com as rotas e operações de persistência do sistema.
 - Configurei o ambiente com Docker Compose e preparei o deploy em um servidor de testes; também atualizei a documentação de instalação.
-- Implementei parcialmente uma rota de backend para integração com dados da SINAPI, trabalho que permaneceu em desenvolvimento.
-- Entre os artefatos em que trabalhei estão as rotas `router_upload.py`, `router_processing.py`, `router_users.py` e `router_sinapi.py`, o esquema `user_schema.py`, o modelo `projeto_db.py`, a configuração do banco em `database.py`, os módulos de processamento DXF e geração de especificações (`drill.py` e `spec_generator.py`), além dos arquivos de Docker e da documentação de instalação. Nessas contribuições, utilizei Python, FastAPI, SQLAlchemy, MySQL/MariaDB, Agno, ezdxf, Docker Compose, HTTPX, Pandas e Git/GitHub.
+- Implementei parcialmente a consulta a dados da SINAPI no backend; essa integração não foi incorporada como funcionalidade final.
+- Entre os principais artefatos em que atuei estão o fluxo de upload e processamento das plantas DXF; os componentes que transformam os elementos geométricos em quantitativos e apoiam a geração de especificações técnicas; as rotas, validações e modelos de dados para usuários e projetos; e a configuração da persistência assíncrona. Também preparei o ambiente com Docker Compose, o deploy em servidor de testes e a documentação de instalação. Para essas atividades, utilizei Python, FastAPI, SQLAlchemy, MySQL/MariaDB, ezdxf, Agno e Docker Compose, além de Git/GitHub.
 
 #### Hard skills
 
@@ -341,7 +317,7 @@ Atuei como Desenvolvedor, com foco no backend e na infraestrutura de testes.
 | SQLAlchemy | Faço/uso com autonomia | Modelagem de dados e integração assíncrona com o banco. |
 | MySQL/MariaDB | Faço/uso com autonomia | Persistência dos dados de usuários e projetos. |
 | Agno | Faço/uso com ajuda | Implementação e integração de componentes de inteligência artificial. |
-| ezdxf | Ouvi falar | Uso nos módulos de leitura e processamento de arquivos DXF. |
+| ezdxf | Faço/uso com ajuda | Uso da biblioteca na leitura e no processamento das plantas DXF. |
 | Docker Compose | Consigo ensinar | Configuração do ambiente e preparação do deploy para testes. |
 | Git/GitHub | Consigo ensinar | Versionamento e colaboração no repositório. |
 
