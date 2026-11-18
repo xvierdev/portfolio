@@ -271,3 +271,80 @@ Atuei como Desenvolvedor.
 #### Soft skills
 
 Durante a implementação do diagnóstico com IA, tivemos que lidar com a demora nos retornos da Entrenova e com respostas inconsistentes do Ollama, enquanto uma mudança na composição da equipe exigia redistribuir as tarefas. Participei do remanejamento e continuei avançando principalmente nos prompts, nas rotas de API e nas telas administrativas; a equipe também ajustou os provedores utilizados, passando a utilizar o provedor da OpenAI após autorização da cliente. Essa experiência exigiu *inteligência emocional* para lidar com as mudanças no grupo, *comunicação* para alinhar a redistribuição das responsabilidades e *resiliência* para seguir ajustando a implementação apesar das dificuldades.
+
+### API 4 — 4º semestre (2026-1): EchoCAD
+
+#### Empresa parceira
+
+- **Empresa parceira:** Exército Brasileiro — Guarnição de Caçapava.
+- **Área de atuação:** Engenharia.
+
+#### Problema
+
+Na área de Engenharia da Guarnição de Caçapava, os engenheiros precisavam consultar as plantas CAD para preparar os memoriais de cálculo e os documentos técnicos das obras. O trabalho envolvia identificar os ambientes e interpretar suas medidas, reunir os quantitativos necessários, pesquisar preços dos insumos e redigir especificações conforme as normas técnicas aplicáveis. Como essas informações eram levantadas e organizadas manualmente, a elaboração dos documentos consumia tempo dos profissionais.
+
+#### Solução
+
+**Nome:** EchoCAD<br>
+**Tipo:** aplicação web.
+
+- Recebe arquivos de plantas CAD em formato DXF e processa seus elementos geométricos.
+- Extrai quantitativos geométricos de elementos da planta, incluindo paredes, estruturas e comprimentos de fios.
+- Gera um memorial de cálculo em planilha Excel a partir das informações processadas.
+- Gera especificações técnicas em documento DOCX e disponibiliza os resultados no histórico dos projetos.
+
+[foto]
+
+#### Link do Repositório Git
+
+- [Repositório do projeto](https://github.com/EquipeEcho/EchoCAD)
+
+#### Tecnologias utilizadas
+
+| Tecnologia | Onde foi utilizada |
+|---|---|
+| Python e FastAPI | Implementação das rotas e do processamento no backend. |
+| React e TypeScript | Construção da interface web e integração com a API. |
+| SQLAlchemy e MariaDB | Modelagem e persistência dos dados dos usuários e projetos. |
+| Pydantic | Validação dos dados recebidos e enviados pelas rotas. |
+| ezdxf | Leitura dos arquivos DXF e extração de informações geométricas. |
+| Agno, Groq e Ollama | Implementação e execução dos componentes de IA usados na análise e na geração de especificações técnicas. |
+| openpyxl | Preenchimento e geração do memorial de cálculo em planilha Excel. |
+| python-docx | Geração das especificações técnicas em documento DOCX. |
+| Alembic | Criação e aplicação das migrações do banco de dados. |
+| Docker Compose | Configuração dos serviços e preparação do ambiente para testes e deploy. |
+| HTTPX e Pandas | Requisições assíncronas e leitura/manipulação de dados relacionados à integração com a SINAPI. |
+| Git e GitHub | Versionamento e colaboração no repositório do projeto. |
+
+#### Contribuições pessoais
+
+##### Papel no Scrum
+
+Atuei como Desenvolvedor, com foco no backend e na infraestrutura de testes.
+
+##### Principais contribuições
+
+- Contribuí para o processamento dos arquivos DXF, ajudando a interpretar suas geometrias e transformar os elementos das plantas em quantitativos para o memorial de cálculo.
+- Implementei e refinei componentes e agentes de inteligência artificial com o Agno, apoiando a análise das informações extraídas das plantas e a geração de especificações técnicas.
+- Desenvolvi rotas de backend para upload e processamento de arquivos e participei da implementação do cadastro de usuários, dos esquemas de validação e dos modelos de dados.
+- Contribuí para a configuração do SQLAlchemy assíncrono e para sua integração com as rotas e operações de persistência do sistema.
+- Configurei o ambiente com Docker Compose e preparei o deploy em um servidor de testes; também atualizei a documentação de instalação.
+- Implementei parcialmente uma rota de backend para integração com dados da SINAPI, trabalho que permaneceu em desenvolvimento.
+- Entre os artefatos em que trabalhei estão as rotas `router_upload.py`, `router_processing.py`, `router_users.py` e `router_sinapi.py`, o esquema `user_schema.py`, o modelo `projeto_db.py`, a configuração do banco em `database.py`, os módulos de processamento DXF e geração de especificações (`drill.py` e `spec_generator.py`), além dos arquivos de Docker e da documentação de instalação. Nessas contribuições, utilizei Python, FastAPI, SQLAlchemy, MySQL/MariaDB, Agno, ezdxf, Docker Compose, HTTPX, Pandas e Git/GitHub.
+
+#### Hard skills
+
+| Tecnologia ou habilidade técnica | Nível de proficiência | Evidência de uso no projeto |
+|---|---|---|
+| Python | Consigo ensinar | Implementação das rotas e dos módulos de processamento DXF e inteligência artificial. |
+| FastAPI | Faço/uso com autonomia | Desenvolvimento das rotas de upload, usuários e processamento. |
+| SQLAlchemy | Faço/uso com autonomia | Modelagem de dados e integração assíncrona com o banco. |
+| MySQL/MariaDB | Faço/uso com autonomia | Persistência dos dados de usuários e projetos. |
+| Agno | Faço/uso com ajuda | Implementação e integração de componentes de inteligência artificial. |
+| ezdxf | Ouvi falar | Uso nos módulos de leitura e processamento de arquivos DXF. |
+| Docker Compose | Consigo ensinar | Configuração do ambiente e preparação do deploy para testes. |
+| Git/GitHub | Consigo ensinar | Versionamento e colaboração no repositório. |
+
+#### Soft skills
+
+Durante o desenvolvimento do EchoCAD, a equipe precisou descobrir como interpretar os arquivos DXF e transformar a geometria das plantas em quantitativos para o memorial de cálculo. Como ainda havia dúvidas sobre esse tipo de documento e sobre o uso do Agno, participei de várias reuniões para discutir como fazer essa leitura e pesquisei a ferramenta para contribuir com os agentes de IA e o processamento no backend. A distribuição desigual das tarefas também exigiu que eu mantivesse o foco nas frentes técnicas e ajustasse minha atuação para ajudar o projeto a avançar. Essa experiência exigiu *resiliência* para persistir diante da complexidade, *flexibilidade* para adaptar a abordagem durante as descobertas, *comunicação* para construir o entendimento com a equipe e *inteligência emocional* para lidar com a pressão sem interromper a colaboração.
